@@ -1,0 +1,13 @@
+{
+"name": "jibanananda",
+"version": "1.0.0",
+"description": "",
+"repository": {
+"type": "git",
+"url": "https://github.com/BookwormsBD/jibanananda.git"
+},
+"author": "BookwormsBD",
+"dependencies": {
+"gitbook-plugin-disqus": "0.0.1"
+}
+}
